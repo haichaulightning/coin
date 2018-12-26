@@ -8,7 +8,6 @@ http://auto4.eaglezz.com/faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&c
 http://auto.eaglezz.com/faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&key=853aeed8555d2bbb24cc882595164650
 http://auto1.eaglezz.com/faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&key=853aeed8555d2bbb24cc882595164650
 http://auto4.eaglezz.com/faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&key=853aeed8555d2bbb24cc882595164650
-http://faucet.eaglezz.com/?token=76.01169cb5ebbc054eaa35c15eb
 http://deadsats.com/autofaucet/faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&key=e6c9d3e223a2a593d061dca4d983a461
 https://rocket-one.space/faucet.php?&address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&key=cf4cf1e23ade58f4c140b9fd69c5a71c&sl=oyf2RmBP24d
 https://faucet.dutchycorp.space//faucet.php?address=DJTYAEegrab9NfgJ8eanGmvyLoK9stvXXo&currency=DOGE&action=&miner=on&key=549c03b1f78ecb65420b2ec502e7aa2c
